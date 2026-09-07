@@ -1,0 +1,15 @@
+{
+  "name": "genpark-dpll-sat-solver-boolean-satisfiability-skill",
+  "version": "1.0.0",
+  "description": "DPLL Boolean satisfiability solver with unit propagation and pure literal elimination.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "sat-solver",
+    "dpll",
+    "boolean-logic",
+    "formal-verification",
+    "agentic-ai"
+  ]
+}
